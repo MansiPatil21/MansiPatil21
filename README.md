@@ -55,14 +55,14 @@ Hi, I'm Mansi — a Master of Applied Computer Science student at Dalhousie Univ
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiPatil21&theme=2077" alt="GitHub Summary Card" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiPatil21&color_curve=a8637f&color_title=d9a8bf&color_text=f5e3ea&color_background=0a0508" alt="GitHub Summary Card" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MansiPatil21&theme=github-dark&hide_border=true&background=0a0508&ring=d9a8bf&fire=d9a8bf&currStreakLabel=d9a8bf" alt="Mansi's GitHub streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=MansiPatil21&theme=2077" alt="Top Languages Card" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=MansiPatil21&color_curve=a8637f&color_title=d9a8bf&color_text=f5e3ea&color_background=0a0508" alt="Top Languages Card" />
 </div>
 
 ### 🚀 Featured projects
