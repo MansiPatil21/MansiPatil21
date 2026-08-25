@@ -49,7 +49,7 @@ Hi, I'm Mansi — a Master of Applied Computer Science student at Dalhousie Univ
 ### 📊 GitHub stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MansiPatil21&theme=react-dark&bg_color=0a0508&color=d9a8bf&line=d9a8bf&point=f5e3ea&area=true&area_color=a8637f&hide_border=true&custom_title=Mansi's%20Contribution%20Graph" alt="Mansi's contribution graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MansiPatil21&theme=github-dark&bg_color=0a0508&color=d9a8bf&line=d9a8bf&point=f5e3ea&area=true&area_color=a8637f&hide_border=true&custom_title=Mansi's%20Contribution%20Graph" alt="Mansi's contribution graph"/>
 </div>
 
 <div align="center">
