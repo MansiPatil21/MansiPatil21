@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff3fa4?style=for-the-badge&logo=linkedin&logoColor=fde3f0)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/Email-1a0812?style=for-the-badge&logo=gmail&logoColor=fde3f0)](mailto:YOUR_EMAIL_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0508?style=for-the-badge&logo=github&logoColor=ff8cc8)](https://github.com/MansiPatil21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a8637f?style=for-the-badge&logo=linkedin&logoColor=f5e3ea)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Email](https://img.shields.io/badge/Email-1a0812?style=for-the-badge&logo=gmail&logoColor=f5e3ea)](mailto:YOUR_EMAIL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0508?style=for-the-badge&logo=github&logoColor=d9a8bf)](https://github.com/MansiPatil21)
 
 </div>
 
@@ -28,37 +28,37 @@ Hi, I'm Mansi — a Master of Applied Computer Science student at Dalhousie Univ
 
 ### 🛠️ Tech stack
 
-![AWS](https://img.shields.io/badge/AWS-ff3fa4?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-ff3fa4?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-ff3fa4?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-ff3fa4?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kinesis](https://img.shields.io/badge/Kinesis-ff3fa4?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-ff3fa4?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-a8637f?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-a8637f?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-a8637f?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-a8637f?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Kinesis-a8637f?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-a8637f?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-ff3fa4?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ff3fa4?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-ff3fa4?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-ff3fa4?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ff3fa4?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-a8637f?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-a8637f?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-a8637f?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-a8637f?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-a8637f?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-ff3fa4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff3fa4?style=for-the-badge&logo=githubactions&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ff3fa4?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff3fa4?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-a8637f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-a8637f?style=for-the-badge&logo=githubactions&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-a8637f?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-a8637f?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 📊 GitHub stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MansiPatil21&theme=react-dark&bg_color=0a0508&color=ff8cc8&line=ff8cc8&point=fde3f0&area=true&area_color=ff3fa4&hide_border=true&custom_title=Mansi's%20Contribution%20Graph" alt="Mansi's contribution graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MansiPatil21&theme=react-dark&bg_color=0a0508&color=d9a8bf&line=d9a8bf&point=f5e3ea&area=true&area_color=a8637f&hide_border=true&custom_title=Mansi's%20Contribution%20Graph" alt="Mansi's contribution graph"/>
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MansiPatil21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0a0508&title_color=ff8cc8&icon_color=ff8cc8&text_color=fde3f0" alt="Mansi's GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MansiPatil21&theme=github-dark&hide_border=true&background=0a0508&ring=ff8cc8&fire=ff8cc8&currStreakLabel=ff8cc8" alt="Mansi's GitHub streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MansiPatil21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0a0508&title_color=d9a8bf&icon_color=d9a8bf&text_color=f5e3ea" alt="Mansi's GitHub stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MansiPatil21&theme=github-dark&hide_border=true&background=0a0508&ring=d9a8bf&fire=d9a8bf&currStreakLabel=d9a8bf" alt="Mansi's GitHub streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiPatil21&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0508&title_color=ff8cc8&text_color=fde3f0" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiPatil21&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0508&title_color=d9a8bf&text_color=f5e3ea" alt="Top languages"/>
 </div>
 
 ### 🚀 Featured projects
