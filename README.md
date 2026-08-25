@@ -49,22 +49,21 @@ Hi, I'm Mansi — a Master of Applied Computer Science student at Dalhousie Univ
 ### 📊 GitHub stats
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/d9a8bf/MansiPatil21" alt="Mansi's Contribution Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/a8637f/MansiPatil21" alt="Mansi's Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=MansiPatil21&bg_color=0a0508&color=d9a8bf&line=d9a8bf&point=f5e3ea&area=true&area_color=d9a8bf&hide_border=true&hide_title=false" alt="Mansi's Activity Graph" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiPatil21&color_curve=a8637f&color_title=d9a8bf&color_text=f5e3ea&color_background=0a0508" alt="GitHub Summary Card" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MansiPatil21&theme=github-dark&hide_border=true&background=0a0508&ring=d9a8bf&fire=d9a8bf&currStreakLabel=d9a8bf" alt="Mansi's GitHub streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiPatil21&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0508&title_color=d9a8bf&text_color=f5e3ea" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=MansiPatil21&color_curve=a8637f&color_title=d9a8bf&color_text=f5e3ea&color_background=0a0508" alt="Top Languages Card" />
 </div>
-
 ### 🚀 Featured projects
 
 **🔍 [ML Model Monitoring Pipeline](https://github.com/MansiPatil21/driftwatch-ml-cloud)**
