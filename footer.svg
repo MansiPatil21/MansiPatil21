@@ -1,0 +1,13 @@
+<svg width="1200" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>footer accent</title>
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a0508"/>
+      <stop offset="0.5" stop-color="#a8637f"/>
+      <stop offset="1" stop-color="#0a0508"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="70" fill="#0a0508"/>
+  <path d="M0,35 C300,10 500,60 700,30 C900,5 1000,50 1200,20 L1200,70 L0,70 Z" fill="url(#fg)" opacity="0.55"/>
+  <text x="600" y="42" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#d9a8bf" text-anchor="middle">Thanks for stopping by — let's build something together</text>
+</svg>
