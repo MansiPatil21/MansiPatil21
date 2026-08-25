@@ -49,20 +49,20 @@ Hi, I'm Mansi — a Master of Applied Computer Science student at Dalhousie Univ
 ### 📊 GitHub stats
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/a8637f/MansiPatil21" alt="Mansi's Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MansiPatil21&theme=react-dark&bg_color=0a0508&color=d9a8bf&line=d9a8bf&point=f5e3ea&area=true&area_color=a8637f&hide_border=true&custom_title=Mansi's%20Contribution%20Graph" alt="Mansi's Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiPatil21&theme=2077" alt="GitHub Summary Card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MansiPatil21&show_icons=true&bg_color=0a0508&title_color=d9a8bf&text_color=f5e3ea&icon_color=d9a8bf&hide_border=true&count_private=true" alt="Mansi's GitHub stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MansiPatil21&theme=github-dark&hide_border=true&background=0a0508&ring=d9a8bf&fire=d9a8bf&currStreakLabel=d9a8bf" alt="Mansi's GitHub streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=MansiPatil21&theme=2077" alt="Top Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiPatil21&layout=compact&bg_color=0a0508&title_color=d9a8bf&text_color=f5e3ea&hide_border=true" alt="Top languages"/>
 </div>
 
 ### 🚀 Featured projects
