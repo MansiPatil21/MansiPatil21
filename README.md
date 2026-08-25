@@ -16,7 +16,6 @@
 
 - 🎓 Master of Applied Computer Science (MACS) student at Dalhousie University, Halifax, NS
 - ☁️ Focused on cloud infrastructure, AI/ML systems, and software development — comfortable across the stack, from serverless AWS architecture to building and deploying ML-integrated applications
-- 📜 Currently working toward AWS Certified Solutions Architect – Associate
 - 🌍 International student, open to co-op opportunities across Canada
 - 🧠 Background in cybersecurity/forensics (BTech) before moving toward data science and applied ML
 
