@@ -45,6 +45,7 @@ Hi, I'm Mansi — a Master of Applied Computer Science student at Dalhousie Univ
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-a8637f?style=for-the-badge&logo=githubactions&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-a8637f?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-a8637f?style=for-the-badge&logo=javascript&logoColor=white)
+
 ### 📊 GitHub stats
 
 <div align="center">
@@ -61,6 +62,7 @@ Hi, I'm Mansi — a Master of Applied Computer Science student at Dalhousie Univ
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiPatil21&layout=compact&theme=default" alt="Top languages"/>
 </div>
+
 ### 🚀 Featured projects
 
 **🔍 [ML Model Monitoring Pipeline](https://github.com/MansiPatil21/driftwatch-ml-cloud)**
