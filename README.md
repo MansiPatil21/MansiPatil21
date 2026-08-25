@@ -23,7 +23,6 @@
 ### Current focus
 
 - 🏗️ Building serverless, event-driven cloud systems — monitoring, drift detection, and deployment pipelines with full IaC and CI/CD
-- 📚 Studying for AWS SAA-C03
 - 🧩 Strengthening data structures & algorithms for technical interviews
 - 🤝 Open to co-op opportunities in **Cloud Engineering**, **AI/ML**, and **Software Development**
 
