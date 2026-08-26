@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a8637f?style=for-the-badge&logo=linkedin&logoColor=f5e3ea)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a8637f?style=for-the-badge&logo=linkedin&logoColor=f5e3ea)](https://linkedin.com/in/www.linkedin.com/in/mansipatil-cs)
 [![Email](https://img.shields.io/badge/Email-1a0812?style=for-the-badge&logo=gmail&logoColor=f5e3ea)](mailto:YOUR_EMAIL_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0508?style=for-the-badge&logo=github&logoColor=d9a8bf)](https://github.com/MansiPatil21)
 
